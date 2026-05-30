@@ -1,0 +1,22 @@
+{
+  "name": "astroway-examples",
+  "private": true,
+  "type": "module",
+  "description": "Copy-paste integration recipes for the AstroWay astrology API",
+  "scripts": {
+    "typecheck": "tsc --noEmit"
+  },
+  "dependencies": {
+    "@astroway/sdk": "^1.1.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.0",
+    "@cloudflare/workers-types": "^4.20240000.0",
+    "@notionhq/client": "^2.2.15",
+    "@slack/bolt": "^4.0.0",
+    "discord.js": "^14.16.0",
+    "openai": "^4.70.0",
+    "twilio": "^5.3.0",
+    "@types/node": "^22.0.0"
+  }
+}
