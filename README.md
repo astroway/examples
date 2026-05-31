@@ -1,4 +1,4 @@
-# AstroWay API — examples gallery
+# AstroWay astrology API — examples gallery
 
 Ten copy-paste integration recipes for the [AstroWay astrology API](https://api.astroway.info) — chat bots, LLM tools, edge caching, data export and drop-in services. Each file is self-contained: install one or two deps, set `ASTROWAY_API_KEY`, run.
 
